@@ -28,9 +28,6 @@ Este código foi desenvolvido **inteiramente pelo celular**, demonstrando adapta
 
 ## 💻 Como Executar
 ```bash
-# Clone o repositório
-git clone [seu-repositorio]
-
 # Execute o programa
 python analise_pessoas.py
 ```
